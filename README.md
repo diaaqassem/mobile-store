@@ -61,11 +61,11 @@ To get a local copy up and running, follow these simple steps:
 ##create .env file # PORT = 3000
 
 # connect mongodb
-DB_URL = "mongodb://127.0.0.1:27017/mobile-store"
+- DB_URL = "mongodb://127.0.0.1:27017/mobile-store"
 
-SECRET_KEY = ""
+- SECRET_KEY = ""
 
-JWT_COOKIE_EXPIRES = 7 * 24 * 60 * 60 * 1000
+- JWT_COOKIE_EXPIRES = 7 * 24 * 60 * 60 * 1000
 
 2.Install dependencies:
   npm install
