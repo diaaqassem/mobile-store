@@ -63,7 +63,7 @@ To get a local copy up and running, follow these simple steps:
 # connect mongodb
 DB_URL = "mongodb://127.0.0.1:27017/mobile-store"
 
-SECRET_KEY = "f84cabf96f22a6633a79cc9100829a66b66748bc7f13237711869e6e1967503b"
+SECRET_KEY = ""
 
 JWT_COOKIE_EXPIRES = 7 * 24 * 60 * 60 * 1000
 
